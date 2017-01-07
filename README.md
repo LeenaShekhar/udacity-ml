@@ -1,4 +1,4 @@
-# Udacity Machine Learning Course
+# [Udacity] (https://classroom.udacity.com/) Machine Learning Course
 
 ### 1. Naive Bayes 
 
