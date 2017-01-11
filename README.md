@@ -17,3 +17,10 @@ prediction time: 13.667 s
 0.990898748578
 num of test labels belonging to class 1: 877
 prediction[10, 26, 50]: 1, 0, 1
+
+### 3. Decision Tree
+
+Output:
+accuracy: .977 with precentile as 10
+accuracy: .965 with precentile as 1
+
